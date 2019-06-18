@@ -31,7 +31,7 @@ chmod a+x /usr/bin/javac
 
 cd /usr/local
 
-zookeeperVersion="3.5.5"
+zookeeperVersion="3.4.14"
 
 wget "http://www-us.apache.org/dist/zookeeper/zookeeper/zookeeper-$zookeeperVersion.tar.gz"
 tar -xvf "zookeeper-$zookeeperVersion.tar.gz"
