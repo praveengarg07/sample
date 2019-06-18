@@ -33,7 +33,7 @@ cd /usr/local
 
 zookeeperVersion="3.4.14"
 
-wget "http://www-us.apache.org/dist/zookeeper/zookeeper-$zookeeperVersion.tar.gz"
+wget "http://www-us.apache.org/dist/zookeeper/zookeeper-3.4.14/zookeeper-$zookeeperVersion.tar.gz"
 tar -xvf "zookeeper-$zookeeperVersion.tar.gz"
 
 touch zookeeper-$zookeeperVersion/conf/zoo.cfg
